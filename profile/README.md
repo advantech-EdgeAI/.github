@@ -4,6 +4,8 @@ This is Advantech, a leading innovator in IPC solutions, spanning from servers t
 
 Built on NVIDIA’s powerful AI software and toolkits, our Innovation Solution Pilot (ISP) offers a series of production-ready software solutions designed to supercharge edge devices with AI capabilities. Whether it’s optimizing industrial processes, enhancing smart city solutions, or driving innovation in other fields, ISP empowers edge computing to thrive in a wide range of scenarios.
 
+Looking for tech support or have a business inquiry? Let’s talk: [Contact Form](https://www.advantech.com/en/form/2bcb7004-44e9-4e70-9ef0-520f326e6141?callback=f51f1493-33ae-43e5-8172-cb8055499ec1)
+
 ![image](https://github.com/user-attachments/assets/6b600216-7ef6-468c-9379-e8dc0aa943dc)
 
 ### Meet Our AI Boxes 📦
