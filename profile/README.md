@@ -19,3 +19,5 @@ Innovation Solution Pilot (ISP) is an AI platform built on the MIC-AI series, of
 - **Edge Agent**: A user-friendly drag-and-drop interface that supports integration with multi-modal LLMs, Text-To-Speech (TTS), prompt templates, and digital input/output sensors.
 
 - **AI NVR**: Powered by NVIDIA’s advanced deep learning AI video analytics, it features capabilities like object detection, face recognition, and license plate recognition.
+
+- **AMR**: Deploys intelligent, self-navigating robots for automation in industries like manufacturing and logistics.
