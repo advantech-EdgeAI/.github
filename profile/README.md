@@ -10,7 +10,7 @@ Looking for tech support or have a business inquiry? Let’s talk: [Contact Form
 
 ### Meet Our AI Boxes 📦
 
-The MIC-AI series delivers compact, industrial-grade edge AI solutions powered by NVIDIA Jetson for high GPU performance. From video analytics in safety, transportation, and manufacturing to rugged systems for heavy machinery and smart city applications, MIC-AI brings AI to the edge.
+The MIC-AI series delivers compact, industrial-grade edge AI solutions accelerated by NVIDIA Jetson for high GPU performance. From video analytics in safety, transportation, and manufacturing to rugged systems for heavy machinery and smart city applications, MIC-AI brings AI to the edge.
 
 ### Work with Advantech Solution Pilot 🛩️
 
@@ -20,4 +20,4 @@ Advantech Solution Pilot is an AI platform built on the MIC-AI series, offering 
 
 - **AMR DevKit**: Deploys intelligent, self-navigating robots for automation in industries like manufacturing, logistics, healthcare, and more.
 
-- **AI NVR**: Powered by NVIDIA’s advanced deep learning AI video analytics, it features capabilities like object detection, face recognition, and license plate recognition.
+- **AI NVR**: Accelerated by NVIDIA’s advanced deep learning AI video analytics, it features capabilities like object detection, face recognition, and license plate recognition.
