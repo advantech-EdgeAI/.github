@@ -20,4 +20,6 @@ Advantech Solution Pilot is an AI platform built on the MIC-AI series, offering 
 
 - **AMR DevKit**: Deploys intelligent, self-navigating robots for automation in industries like manufacturing, logistics, healthcare, and more.
 
+- **VSS**: A reference architecture for Jetson Thor that enables automated video understanding and real-time alerting through advanced VLM reasoning.
+
 - **AI NVR**: Accelerated by NVIDIA’s advanced deep learning AI video analytics, it features capabilities like object detection, face recognition, and license plate recognition.
