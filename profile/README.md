@@ -2,17 +2,13 @@
 
 Advantech is a global leader in IPC solutions, spanning from servers to edge devices. As we step into the exciting world of AI, we are focused on making edge computing smarter and bridging the gap between humans and machines. At the heart of this mission is the Innovation Solution Pilot (ISP).
 
-### The Foundation: NVIDIA & Advantech ISP
-
-Innovation Solution Pilot (ISP) is a suite of production-ready software services designed to supercharge our MIC-AI series. ISP takes NVIDIA's powerful AI software and toolkits as a foundation and enhances them with Advantech’s unique add-on features to make them easier to set up and deploy.
-
-By bridging NVIDIA’s raw GPU performance with our industrial-grade hardware, ISP empowers edge computing to thrive across diverse industries, from optimizing industrial processes to enhancing smart city solutions.
+ISP is a suite of production-ready software services designed to supercharge our MIC-AI series. ISP takes NVIDIA's powerful AI software and toolkits as a foundation and enhances them with Advantech’s unique add-on features to make them easier to set up and deploy.
 
 ![image](https://github.com/user-attachments/assets/6b600216-7ef6-468c-9379-e8dc0aa943dc)
 
 ### ISP Service Portfolio 🛩️
 
-The Innovation Solution Pilot ecosystem consists of six specialized projects designed to empower edge intelligence:
+The ISP ecosystem consists of six specialized projects designed to empower edge intelligence:
 
 - **Edge Agent**: An interactive sandbox built on NVIDIA Agent Studio that simplifies the integration of multi-modal LLMs, Text-To-Speech (TTS), and live sensors via a user-friendly drag-and-drop interface.
 
