@@ -1,25 +1,33 @@
-## Hello AI. This is Advantech.
+## Bridging the Gap with Innovation Solution Pilot (ISP)
 
-This is Advantech, a leading innovator in IPC solutions, spanning from servers to edge devices. Over the decades, we've worked together with our partners and users to unlock limitless possibilities across diverse industries. Now, as we step into the exciting world of AI, we’re continuing to push boundaries—making our computers smarter and bridging the gap between humans and machines.
+Advantech is a global leader in IPC solutions, spanning from servers to edge devices. As we step into the exciting world of AI, we are focused on making edge computing smarter and bridging the gap between humans and machines. At the heart of this mission is the Innovation Solution Pilot (ISP).
 
-Built on NVIDIA’s powerful AI software and toolkits, our Advantech Solution Pilot offers a series of production-ready software solutions designed to supercharge edge devices with AI capabilities. Whether it’s optimizing industrial processes, enhancing smart city solutions, or driving innovation in other fields, Advantech Solution Pilot empowers edge computing to thrive in a wide range of scenarios.
+### The Foundation: NVIDIA & Advantech ISP
 
-Looking for tech support or have a business inquiry? Let’s talk: [Contact Form](https://www.advantech.com/en/form/2bcb7004-44e9-4e70-9ef0-520f326e6141?callback=f51f1493-33ae-43e5-8172-cb8055499ec1)
+Innovation Solution Pilot (ISP) is a suite of production-ready software services designed to supercharge our MIC-AI series. ISP takes NVIDIA's powerful AI software and toolkits as a foundation and enhances them with Advantech’s unique add-on features to make them easier to set up and deploy.
+
+By bridging NVIDIA’s raw GPU performance with our industrial-grade hardware, ISP empowers edge computing to thrive across diverse industries, from optimizing industrial processes to enhancing smart city solutions.
 
 ![image](https://github.com/user-attachments/assets/6b600216-7ef6-468c-9379-e8dc0aa943dc)
 
-### Meet Our AI Boxes 📦
+### ISP Service Portfolio 🛩️
 
-The MIC-AI series delivers compact, industrial-grade edge AI solutions accelerated by NVIDIA Jetson for high GPU performance. From video analytics in safety, transportation, and manufacturing to rugged systems for heavy machinery and smart city applications, MIC-AI brings AI to the edge.
+The Innovation Solution Pilot ecosystem consists of six specialized projects designed to empower edge intelligence:
 
-### Work with Advantech Solution Pilot 🛩️
+- **Edge Agent**: An interactive sandbox built on NVIDIA Agent Studio that simplifies the integration of multi-modal LLMs, Text-To-Speech (TTS), and live sensors via a user-friendly drag-and-drop interface.
 
-Advantech Solution Pilot is an AI platform built on the MIC-AI series, offering an intuitive and flexible SDK compatible with JetPack 6.0 and above. The platform includes:
+- **AI NVR**: A video analytics application built using NVIDIA Metropolis Microservices for Jetson, featuring object detection, face recognition, and specialized tools like Video Storage Toolkit (VST).
 
-- **Edge Agent**: A user-friendly drag-and-drop interface that supports integration with multi-modal LLMs, Text-To-Speech (TTS), prompt templates, and digital input/output sensors.
+- **VSS**: A reference architecture utilizing NVIDIA Cosmos Reason 1.1 VLM to enable contextualized video summarization, natural language Q&A, and real-time alerting.
 
-- **AMR DevKit**: Deploys intelligent, self-navigating robots for automation in industries like manufacturing, logistics, healthcare, and more.
+- **AMR DevKit**: The "Body" of our robotics suite; it provides a stable hardware-integration foundation with pre-configured drivers for GMSL cameras and LiDAR, along with accurate 3D URDF models.
 
-- **VSS**: A reference architecture for Jetson Thor that enables automated video understanding and real-time alerting through advanced VLM reasoning.
+- **AMR Perceptor**: The "Brain" extension for the DevKit; it adds high-level intelligence using NVIDIA TensorRT-accelerated models (like YOLOv8) and Llama.cpp to provide 3D object detection and natural language reasoning.
 
-- **AI NVR**: Accelerated by NVIDIA’s advanced deep learning AI video analytics, it features capabilities like object detection, face recognition, and license plate recognition.
+- **AMR ReMEmbR**: The "Memory" layer; built on the NVIDIA ReMEmbR workflow, it allows robots to build semantic maps and store environmental data in a vector database for long-term spatial memory.
+
+### Powered by MIC-AI 📦
+
+All ISP services are optimized for the MIC-AI series, our compact, industrial-grade edge AI systems accelerated by NVIDIA Jetson. Whether you are working on rugged heavy machinery or smart city video analytics, ISP and MIC-AI provide the performance and flexibility needed for the modern edge.
+
+Interested in collaborating or need technical support? [Contact Our Team](https://www.advantech.com/en/form/2bcb7004-44e9-4e70-9ef0-520f326e6141?callback=f51f1493-33ae-43e5-8172-cb8055499ec1)
