@@ -16,6 +16,10 @@ The ISP ecosystem consists of six specialized projects designed to empower edge 
 
 - **VSS**: A reference architecture utilizing NVIDIA Cosmos Reason 1.1 VLM to enable contextualized video summarization, natural language Q&A, and real-time alerting.
 
+#### Understanding the AMR Ecosystem
+
+To successfully deploy an intelligent robot, it is important to understand the relationship between our three AMR-focused ISP services:
+
 - **AMR DevKit**: The "Body" of our robotics suite; it provides a stable hardware-integration foundation with pre-configured drivers for GMSL cameras and LiDAR, along with accurate 3D URDF models.
 
 - **AMR Perceptor**: The "Brain" extension for the DevKit; it adds high-level intelligence using NVIDIA TensorRT-accelerated models (like YOLOv8) and Llama.cpp to provide 3D object detection and natural language reasoning.
