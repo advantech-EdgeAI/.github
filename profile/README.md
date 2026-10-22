@@ -1,33 +1,28 @@
 ## Bridging the Gap with Advantech Solution Pilot
 
-Advantech is a global leader in IPC solutions, spanning from servers to edge devices. As we step into the exciting world of AI, we are focused on making edge computing smarter and bridging the gap between humans and machines. At the heart of this mission is the Advantech Solution Pilot.
+Advantech is a global leader in IPC solutions, from servers to edge devices. Now we are moving into the world of AI. Our goal is to make edge computing smarter and to bring people and machines closer together. Advantech Solution Pilot is at the center of this goal.
 
-Advantech Solution Pilot is a suite of software services designed to supercharge our MIC-AI series. It takes NVIDIA's powerful AI software and toolkits as a foundation and enhances them with Advantech’s unique add-on features to make them easier to set up and deploy.
+Advantech Solution Pilot is a set of software services for our MIC-AI series. It is built on NVIDIA's AI software and toolkits, and it adds Advantech features that make setup and deployment easier.
 
 ![image](https://github.com/user-attachments/assets/6b600216-7ef6-468c-9379-e8dc0aa943dc)
 
 ### Advantech Solution Pilot Portfolio 🛩️
 
-The ecosystem consists of three specialized projects designed to empower edge intelligence:
+Each project helps you build smart applications at the edge:
 
-- **Edge Agent**: An interactive sandbox built on NVIDIA Agent Studio that simplifies the integration of multi-modal LLMs, Text-To-Speech (TTS), and live sensors via a user-friendly drag-and-drop interface.
+- [**Edge Agent**](https://github.com/advantech-EdgeAI/Edge_Agent): An interactive sandbox built on NVIDIA Agent Studio. With a simple drag-and-drop interface, you can connect multimodal LLMs, Text-To-Speech (TTS), and live sensors.
 
-- **AI NVR**: A video analytics application built using NVIDIA Metropolis Microservices for Jetson, featuring object detection, face recognition, and specialized tools like Video Storage Toolkit (VST).
+- [**VSS Live Insight and Alert**](https://github.com/advantech-EdgeAI/VSS-Live-Insight-and-Alert): A web application built on NVIDIA VSS 3.2.1 for Jetson AGX Thor. It uses a vision language model (VLM) to watch live RTSP streams and uploaded videos, describes each video segment, and sends real-time alerts when the events you describe happen. Everything, including a local LLM, is installed once and then runs fully offline.
 
-- **VSS**: A reference architecture utilizing NVIDIA Cosmos Reason 1.1 VLM to enable contextualized video summarization, natural language Q&A, and real-time alerting.
+- [**AMR DevKit**](https://github.com/advantech-EdgeAI/AMR_DevKit): A ready-to-use hardware and software package for autonomous mobile robots on the MIC-732-AO (NVIDIA Jetson AGX Orin). It comes with pre-configured ROS 2 drivers for GMSL depth cameras, 2D LiDAR, and fisheye cameras. With a few commands, your sensors and coordinate system are ready for SLAM and navigation.
 
-#### Understanding the AMR Ecosystem
-
-To successfully deploy an intelligent robot, it is important to understand the relationship between our three AMR-focused services:
-
-- **AMR DevKit**: The "Body" of our robotics suite; it provides a stable hardware-integration foundation with pre-configured drivers for GMSL cameras and LiDAR, along with accurate 3D URDF models.
-
-- **AMR Perceptor**: The "Brain" extension for the DevKit; it adds high-level intelligence using NVIDIA TensorRT-accelerated models (like YOLOv8) and Llama.cpp to provide 3D object detection and natural language reasoning.
-
-- **AMR ReMEmbR**: The "Memory" layer; built on the NVIDIA ReMEmbR workflow, it allows robots to build semantic maps and store environmental data in a vector database for long-term spatial memory.
+- [**AI NVR**](https://github.com/advantech-EdgeAI/AI_NVR): A video analytics application built on NVIDIA Metropolis Microservices for Jetson. It includes object detection, face recognition, and tools such as the Video Storage Toolkit (VST).
 
 ### Powered by MIC-AI 📦
 
-All services are optimized for the MIC-AI series, our compact, industrial-grade edge AI systems accelerated by NVIDIA Jetson. Whether you are working on rugged heavy machinery or smart city video analytics, Advantech Solution Pilot and MIC-AI provide the performance and flexibility needed for the modern edge.
+All services are optimized for the MIC-AI series, our compact, industrial-grade edge AI systems powered by NVIDIA Jetson. From heavy machinery to smart city video analytics, Advantech Solution Pilot and MIC-AI give you the performance and flexibility you need at the edge.
 
-Interested in collaborating or need technical support? [Contact Our Team](https://www.advantech.com/en/form/2bcb7004-44e9-4e70-9ef0-520f326e6141?callback=f51f1493-33ae-43e5-8172-cb8055499ec1)
+Want to get the latest news and updates? [Subscribe to our newsletter](https://subscribe.advantechsae.online/)
+
+<img width="2804" height="561" alt="image" src="https://github.com/user-attachments/assets/65e66a93-82c3-4e29-ad29-df2a84383e28" />
+
