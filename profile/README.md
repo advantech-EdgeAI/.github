@@ -22,7 +22,8 @@ Each project helps you build smart applications at the edge:
 
 All services are optimized for the MIC-AI series, our compact, industrial-grade edge AI systems powered by NVIDIA Jetson. From heavy machinery to smart city video analytics, Advantech Solution Pilot and MIC-AI give you the performance and flexibility you need at the edge.
 
-Want to get the latest news and updates? [Subscribe to our newsletter](https://subscribe.advantechsae.online/)
+> [!TIP]
+> Want to get the latest news and updates? [Subscribe to our newsletter](https://subscribe.advantechsae.online/)
 
 <img width="2804" height="561" alt="image" src="https://github.com/user-attachments/assets/65e66a93-82c3-4e29-ad29-df2a84383e28" />
 
